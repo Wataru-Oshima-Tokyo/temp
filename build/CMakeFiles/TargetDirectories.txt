@@ -1,0 +1,7 @@
+C:/Users/dobot/Desktop/C--vol.1/sample/build/CMakeFiles/sample.dir
+C:/Users/dobot/Desktop/C--vol.1/sample/build/CMakeFiles/install/local.dir
+C:/Users/dobot/Desktop/C--vol.1/sample/build/CMakeFiles/install.dir
+C:/Users/dobot/Desktop/C--vol.1/sample/build/CMakeFiles/edit_cache.dir
+C:/Users/dobot/Desktop/C--vol.1/sample/build/CMakeFiles/rebuild_cache.dir
+C:/Users/dobot/Desktop/C--vol.1/sample/build/CMakeFiles/list_install_components.dir
+C:/Users/dobot/Desktop/C--vol.1/sample/build/CMakeFiles/install/strip.dir

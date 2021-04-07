@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/dobot/Desktop/C--vol.1/sample/build",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/sample.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\sample.dir\\main.cpp.obj -c C:\\Users\\dobot\\Desktop\\C--vol.1\\sample\\main.cpp",
+  "file": "C:/Users/dobot/Desktop/C--vol.1/sample/main.cpp"
+}
+]
